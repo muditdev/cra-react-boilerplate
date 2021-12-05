@@ -1,0 +1,8 @@
+/src/assets
+*.scss
+*.css
+/.next
+jscofig.json
+/node_modules
+/scripts
+/build
