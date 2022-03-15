@@ -1,0 +1,33 @@
+/* extending custom utilities on top on bootstrap*/
+
+
+:root {
+  --text: #000;
+  --white: #fff;
+
+  --bg: #f1f3f7;
+  --text: #0b1626;
+  --textTinted: #898b9b;
+  --textTinted1: #828497;
+  --white: #ffffff;
+  --grayButton: rgba(11, 22, 38, 0.05);
+  --sideBarShadow: 1px 0px 0px rgba(0, 0, 0, 0.08);
+  --searchBg: rgba(11, 22, 38, 0.03);
+  --minimizeNavWidth: 70px;
+  --transparent: transparent;
+  --checkboxBg: #6bcad3;
+  --sidebarBg: #f1f3f7;
+  --activeSidebarIconColor: #0b1626;
+  --linkhoverbg: rgba(11, 22, 38, 0.07);
+  --subtitleColor: rgba(0, 0, 0, 0.3);
+  --blueGray: #60b6bf;
+  --text-lighter: rgba(0, 0, 0, 0.8);
+  --inputBg: rgba(0, 0, 0, 0.04);
+  --tabColor: rgba(0, 0, 0, 0.5);
+  --stepText: rgba(11, 22, 38, 0.6);
+  --bg: #0b1626;
+  --text: white;
+  --activeSidebarIconColor: white;
+  --searchBg: rgba(255, 255, 255, 0.05);
+  --linkhoverbg: rgba(255, 255, 255, 0.1);
+}

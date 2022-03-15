@@ -1,8 +1,5 @@
-/src/assets
 *.scss
 *.css
-/.next
-jscofig.json
+/.vscode
 /node_modules
-/scripts
 /build
